@@ -1,2 +1,0 @@
-moduleA @ git+ssh://git@github.com/Valpoli/moduleA.git@main
-moduleB @ git+ssh://git@github.com/Valpoli/moduleB.git@main
